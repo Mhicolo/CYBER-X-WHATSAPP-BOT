@@ -1,5 +1,5 @@
 {
-    "name": "Cyber-X WhatsApp Bot",
+    "name": "mhicolo WhatsApp Bot",
     "description": "This is a 3ʳᵈ Party Application software for WhatsApp with Many Feature & many Commands",
     "repository": "https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT",
     "logo": "https://telegra.ph/file/71c859102f3625d06204b.jpg",
@@ -11,15 +11,15 @@
         "Multi Device"
     ],
     "env": {
-        "SESSION_ID": {
+        "SESSION_ID": {"cyber-x@;;;4ZFGWSYB#tCIwGBXi-KWSn-At_xGHS8N_YTDupfBO6yrS5SnrJqg"
             "description": "Type the Session-ID you got from scaning QR",
             "required": true,
-            "value": ""
+            "value": "cyber-x@;;;4ZFGWSYB#tCIwGBXi-KWSn-At_xGHS8N_YTDupfBO6yrS5SnrJqg"
         },
         "HEROKU_API_KEY": {
             "description": "Enter your heroku account api key",
             "required": true,
-            "value": ""
+            "value": "HRKU-0f63f408-44c8-4906-870d-c9ac9994b994"
         },
         "HEROKU_APP_NAME": {
             "description": "Enter you pushed app Name",
